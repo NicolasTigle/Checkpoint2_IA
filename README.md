@@ -1,4 +1,4 @@
-#Checkpoint 1 - Machine Learning
+# Checkpoint 1 - Machine Learning
 Nome dos alunos: Amanda da Silva Fernandes, Gabriel Antonio Luiz Tomaz Assunção, Guilherme Augusto de Oliveira Carvalho, Nicolas Tigle Lins Silva e Victor Rubem Castilho Campos
 
 Turma: TDSJ
