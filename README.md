@@ -7,7 +7,6 @@ Ano: 2º
 
 Objetivo do projeto:
 
-Implementar um Classificador de imagens de humano ou cavalo. O dataset está disponível na
-documentação do TensroFlow através do link:
+Implementar uma Rede Neural Convolucional, cujo objetivo é classificar imagens entre cavalo e humano, utilizando do Keras/TensorFlow, atráves do dataset no link a seguir:
 
 https://www.tensorflow.org/datasets/catalog/horses_or_humans
